@@ -1,4 +1,11 @@
 body{
     background-color: #eeeeee;
-    color: #ff0000;
+}
+
+#parrafo {
+    color: goldenrod;
+}
+
+.etiqueta {
+    color: coral;
 }
