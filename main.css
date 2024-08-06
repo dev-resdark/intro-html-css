@@ -4,5 +4,14 @@ body{
 
 .caja {
     margin: 8px;
-    background-color: gainsboro;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px;
+    border-width: 2px;
+    /* border-bottom: 2px;
+    border-right: 2px;
+    border-left: 2px;
+    border-top: 3px; */
+    border-style: solid;
+    background-color: #aaf;
 }
