@@ -1,11 +1,8 @@
 body{
-    background-color: #eeeeee;
+    background-color: #eee;
 }
 
-#parrafo {
-    color: goldenrod;
-}
-
-.etiqueta {
-    color: coral;
+.caja {
+    margin: 8px;
+    background-color: gainsboro;
 }
