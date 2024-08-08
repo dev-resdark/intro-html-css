@@ -14,4 +14,7 @@ body{
     border-top: 3px; */
     border-style: solid;
     background-color: #aaf;
+    color: beige;
+    height: 100px;
+    width: 100px;
 }
