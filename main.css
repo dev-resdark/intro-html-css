@@ -9,7 +9,7 @@ p {
     text-align: right;
     text-align: left; */
     text-indent: 15px;/**Darle identación al texto*/
-    line-height: 2;
+    line-height: 2;/**Espaciado entre lineas y parrafos*/
 }
 
 a {
