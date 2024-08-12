@@ -8,5 +8,15 @@ p {
     /* text-align: justify;
     text-align: right;
     text-align: left; */
-    
+    text-indent: 15px;/**Darle identación al texto*/
+    line-height: 2;
+}
+
+a {
+    text-decoration: none;
+    /**overline: subrayado superior; underline: subrayado Por defecto; line-through:tachado */
+    text-transform: uppercase;
+    /*** Capitalize, lowercase, none*/
+    letter-spacing: 3px;
+
 }
